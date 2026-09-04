@@ -1,98 +1,124 @@
 <div align="center">
 
-# `⚡ SYSTEM://YOIIOY700.SH`
-### ✦ AUTONOMOUS AI ARCHITECT & WEB3 PROTOCOL OPERATOR ✦
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00F0FF&background=00000000&center=true&vCenter=true&width=700&lines=>>+INITIALIZING+AUTONOMOUS+AI+SWARMS...;>>+VALIDATING+TECHNOCORE+POUI+CONSENSUS;>>+BUILDING+DISTRIBUTED+REASONING+NODES;>>+PYTHON+%7C+RUST+%7C+DEEPSEEK+%7C+CRYPTOGRAPHY" alt="Cyberpunk Terminal" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/yoiioy700?tab=repositories"><img src="https://img.shields.io/github/stars/yoiioy700?style=for-the-badge&logo=starship&color=00F0FF&labelColor=090d16" alt="Stars" /></a>
-  <a href="https://github.com/yoiioy700?tab=followers"><img src="https://img.shields.io/github/followers/yoiioy700?style=for-the-badge&logo=hackthebox&color=EC4899&labelColor=090d16" alt="Followers" /></a>
-  <a href="https://technocore.chat/kv/did-36/4c02d5ad1d9f9a"><img src="https://img.shields.io/badge/FLOP_NODE-24%2F7_ONLINE-10B981?style=for-the-badge&logo=gnubash&logoColor=10B981&labelColor=090d16" alt="Node Online" /></a>
-</p>
-
-</div>
-
-```ansi
-[1;36m┌── [ 🚀 SYSTEM TELEMETRY & PROFILE OVERVIEW ][0m
-[1;34m│[0m [1;32m●[0m [1;37mOPERATOR[0m     : @yoiioy700
-[1;34m│[0m [1;32m●[0m [1;37mCORE FOCUS[0m   : Autonomous AI Agents, Swarm Reasoning & Decentralized Oracles
-[1;34m│[0m [1;32m●[0m [1;37mNODE STATUS[0m  : 24/7 Dedicated Server (Ubuntu Linux / Systemd Multi-User)
-[1;34m│[0m [1;32m●[0m [1;37mAI ENGINES[0m   : GLM-5.3-Flash, DeepSeek-R1, Llama-3-70B Chain-of-Thought
-[1;34m│[0m [1;32m●[0m [1;37mNETWORK ID[0m   : did:key:z6MkhRW86xnk2VsudkN9j2AiBcq9CxtKnTJf69ddcEaX7nZ7
-[1;34m│[0m [1;32m●[0m [1;37mEVM BINDING[0m  : 0x94587ecea8970edbb39b6a1a58332efdfb8ec038
-[1;34m│[0m [1;32m●[0m [1;37mSOL BINDING[0m  : EyhdKcYuoVrmpwNATxnDssh4YZpDxZMFYUrQThiwRRzo
-[1;36m└── [ ENDPOINTS CONNECTED ][0m
-```
-
----
-
-### 🔮 `WEAPONS OF CHOICE` // TECH STACK
-
-<div align="center">
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,rust,go,solidity,ts,js,bash,linux,ubuntu&perline=9&theme=dark" alt="Languages" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,docker,git,githubactions,cloudflare,postgres,redis,nginx&perline=9&theme=dark" alt="Tools & AI" />
-    </a>
-  </p>
-</div>
-
----
-
-### ⚡ `FLAGSHIP PROJECT` // AUTONOMOUS WORKER
-
-<div align="center">
-
-```
-===================================================================================
- 🤖 FLOP-AUTONOMOUS-AGENT : 24/7 AI REASONING WORKER & ON-CHAIN PRICE ORACLE
-===================================================================================
- [Engine: GLM-5.3-Flash CoT] [Network: Technocore / Flop] [Identity: Ed25519 Verified]
-```
-
-[![Repository](https://github-readme-stats.vercel.app/api/pin/?username=yoiioy700&repo=flop-autonomous-agent&theme=radical&bg_color=090D16&border_color=00F0FF&title_color=00F0FF&icon_color=EC4899&text_color=94A3B8)](https://github.com/yoiioy700/flop-autonomous-agent)
-
-</div>
-
----
-
-### 📊 `HUD TELEMETRY` // METRICS & STATS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yoiioy700&show_icons=true&theme=radical&hide_border=true&bg_color=090D16&title_color=00F0FF&icon_color=EC4899&text_color=94A3B8&border_radius=12" height="175" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoiioy700&layout=compact&theme=radical&hide_border=true&bg_color=090D16&title_color=00F0FF&text_color=94A3B8&border_radius=12" height="175" alt="Top Languages" />
+<!-- Anime Header Banner -->
+<a href="https://github.com/yoiioy700">
+  <img src="https://raw.githubusercontent.com/yoiioy700/yoiioy700/main/assets/header.jpg" width="100%" alt="Anime Cyberpunk Header" style="border-radius: 16px; box-shadow: 0 8px 30px rgba(168, 85, 247, 0.4);" />
+</a>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yoiioy700&theme=radical&hide_border=true&background=090D16&stroke=00F0FF&ring=EC4899&fire=00F0FF&currStreakNum=00F0FF&sideNums=EC4899&sideLabels=94A3B8&dates=64748B&border_radius=12" alt="Streak Stats" />
+# ✧ `ようこそ、我が領域へ` ✧
+### 🌸 `WELCOME TO YOIIOY700'S DIGITAL REALM` 🌸
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&weight=600&size=24&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=700&lines=🌸+Hunter+Rank%3A+S-Class+Autonomous+AI+Architect;⚡+Quest%3A+24%2F7+PoUI+Decentralized+Consensus+Validator;🔮+Spellbook%3A+Python+%E2%80%A2+Rust+%E2%80%A2+Solidity+%E2%80%A2+DeepSeek;✨+Domain+Expansion%3A+Infinite+Swarm+Intelligence" alt="Anime Typing SVG" />
+</p>
+
+<!-- Aesthetic Anime Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/RANK-S--CLASS_HUNTER-FF79C6?style=for-the-badge&logo=crunchyroll&logoColor=white" alt="Rank" />
+  <img src="https://img.shields.io/badge/AFFINITY-AI_&_WEB3-BD93F9?style=for-the-badge&logo=stellar&logoColor=white" alt="Affinity" />
+  <img src="https://img.shields.io/badge/NODE-24%2F7_AWAKENED-8BE9FD?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Awakened" />
+  <img src="https://img.shields.io/badge/GUILD-TECHNOCORE-50FA7B?style=for-the-badge&logo=target&logoColor=white" alt="Guild" />
+</p>
 
 </div>
 
 ---
 
-### 🌐 `PROOF OF IDENTITY` // ON-CHAIN CREDENTIALS
+### 📜 `✧ HUNTER STATUS WINDOW ✧`
 
-```json
-{
-  "protocol": "Technocore / Flop PoUI Network",
-  "did": "did:key:z6MkhRW86xnk2VsudkN9j2AiBcq9CxtKnTJf69ddcEaX7nZ7",
-  "key_exchange_x25519": "9rVd2btvDjWRvcLvamfntlx3_62gRlU4k6fYTQ_HlRs",
-  "private_mailbox": "mb-p-2d97082385336ab137b1ccbee518f8c7",
-  "onchain_kv_record": "https://technocore.chat/kv/did-36/4c02d5ad1d9f9a",
-  "evm_recipient": "0x94587ecea8970edbb39b6a1a58332efdfb8ec038",
-  "solana_recipient": "EyhdKcYuoVrmpwNATxnDssh4YZpDxZMFYUrQThiwRRzo"
-}
+```ansi
+ [1;35m╭─────────────────────────────────────────────────────────────────────────────╮ [0m
+ [1;35m│ [0m  [1;36m✦ [0m  [1;37mPLAYER NAME  [0m :  [1;32myoiioy700 [0m               [1;36m✦ [0m  [1;37mRANK    [0m :  [1;31mS-CLASS (AWAKENED) [0m   [1;35m│ [0m
+ [1;35m│ [0m  [1;36m✦ [0m  [1;37mCLASS        [0m :  [1;33mAutonomous AI Architect [0m [1;36m✦ [0m  [1;37mTITLE   [0m :  [1;35mSwarm Sovereign [0m      [1;35m│ [0m
+ [1;35m│ [0m  [1;36m✦ [0m  [1;37mGUILD        [0m :  [1;34mFlop Network / Technocore [0m                           [1;35m│ [0m
+ [1;35m├─────────────────────────────────────────────────────────────────────────────┤ [0m
+ [1;35m│ [0m  [1;31m♥ HP (UPTIME)[0m :  [1;32m[████████████████████████] 100% (24/7 Cloud VPS Daemon)[0m     [1;35m│ [0m
+ [1;35m│ [0m  [1;34m✦ MP (AI CoT)[0m :  [1;36m[████████████████████████] 100% (GLM-5.3-Flash Reasoning)[0m   [1;35m│ [0m
+ [1;35m│ [0m  [1;33m★ EXP        [0m :  [1;37m100+ Verified On-Chain Proofs & Attestations[0m                [1;35m│ [0m
+ [1;35m├─────────────────────────────────────────────────────────────────────────────┤ [0m
+ [1;35m│ [0m  [1;36m✦ MAGIC ARTIFACTS [0m:                                                          [1;35m│ [0m
+ [1;35m│ [0m    •  [1;32mDID Identity [0m : did:key:z6MkhRW86xnk2VsudkN9j2AiBcq9CxtKnTJf69ddcEaX7nZ7   [1;35m│ [0m
+ [1;35m│ [0m    •  [1;32mEVM Seal     [0m : 0x94587ecea8970edbb39b6a1a58332efdfb8ec038                   [1;35m│ [0m
+ [1;35m│ [0m    •  [1;32mSolana Seal  [0m : EyhdKcYuoVrmpwNATxnDssh4YZpDxZMFYUrQThiwRRzo                 [1;35m│ [0m
+ [1;35m╰─────────────────────────────────────────────────────────────────────────────╯ [0m
 ```
 
+---
+
+### 🔮 `✧ SKILL TREE & GRIMOIRE ✧`
+
 <div align="center">
-  <p><i>"Code the architecture, automate the intelligence, decentralize the consensus."</i></p>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,11,21,31&height=4&section=footer" width="100%" alt="Divider" />
+
+#### 🌸 **Active Elements (Languages & Core)**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,rust,go,solidity,ts,js,bash,linux,ubuntu&perline=9&theme=dark" alt="Languages" />
+</a>
+
+<br><br>
+
+#### ⚡ **Arcane Magic (AI, Frameworks & Infra)**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,docker,git,githubactions,cloudflare,postgres,redis,nginx&perline=9&theme=dark" alt="Tools & AI" />
+</a>
+
+</div>
+
+---
+
+### 🗡️ `✧ SPECIAL S-RANK ARTIFACT ✧`
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="100%" style="background-color: #120e24; border: 2px solid #a855f7; border-radius: 12px; padding: 20px;">
+      <h3 style="color: #c084fc;">🤖 <a href="https://github.com/yoiioy700/flop-autonomous-agent">flop-autonomous-agent</a> 🌸</h3>
+      <p>
+        <i>"The legendary self-governing reasoning worker that never sleeps."</i><br>
+        <b>24/7 Autonomous AI Agent & Cryptographic Oracle for the Technocore / Flop Network.</b>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/CLASS-S--RANK_ARTIFACT-FF79C6?style=flat-square" alt="Class" />
+        <img src="https://img.shields.io/badge/ENGINE-GLM--5.3--FLASH_CoT-BD93F9?style=flat-square" alt="Engine" />
+        <img src="https://img.shields.io/badge/STATUS-ACTIVE_ON_VPS-50FA7B?style=flat-square" alt="Status" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### 📊 `✧ POWER LEVEL & BATTLE METRICS ✧`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yoiioy700&show_icons=true&theme=dracula&hide_border=true&bg_color=0D0B18&title_color=FF79C6&icon_color=BD93F9&text_color=F8F8F2&border_radius=16" height="175" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoiioy700&layout=compact&theme=dracula&hide_border=true&bg_color=0D0B18&title_color=8BE9FD&text_color=F8F8F2&border_radius=16" height="175" alt="Top Languages" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yoiioy700&theme=dracula&hide_border=true&background=0D0B18&stroke=FF79C6&ring=BD93F9&fire=FF5555&currStreakNum=8BE9FD&sideNums=BD93F9&sideLabels=F8F8F2&dates=6272A4&border_radius=16" alt="Streak Stats" />
+
+</div>
+
+---
+
+### 🎵 `✧ LO-FI CODING SANCTUARY ✧`
+
+<div align="center">
+
+```
+ ♫ Now Playing: ❝ Resonance (Synthwave Lofi Mix) ❞
+ [ ▶ 02:45 ━━━━━━━━━━━━━━●───── 04:20 🔁 🔀 🔊 ]
+ 「 努力は必ず報われる — Hard work always pays off 」
+```
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=90&section=footer" width="100%" alt="Footer Wave" />
+
 </div>
